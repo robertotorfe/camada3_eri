@@ -13,6 +13,6 @@ Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (vel
 Respuesta: Le perteneces a Microsoft quien lo compro por 7.500 millones de dolares, el acuerdo, que aumentó el enfoque de Microsoft en el desarrollo de código abierto, tenía como objetivo aumentar el uso empresarial de GitHub y llevar las herramientas y servicios de desarrollo de Microsoft a nuevas audiencias. Hoy es uno de los controladores de versiones más utilizados.  
 
 3- ¿Hay otra forma que no sea la terminal para trabajar con Github?
-Se puede descargar GitHub como Software y utilizarlo sin la terminal, la funcionalidad dependerá de lo que se necesite hacer con el.
+Se utilizar desde el navegador o se puede descargar GitHub como Software y utilizarlo sin la terminal, la funcionalidad dependerá de lo que se necesite hacer con el.
 
 
