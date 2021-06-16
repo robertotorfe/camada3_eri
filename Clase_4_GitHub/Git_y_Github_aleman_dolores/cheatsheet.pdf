@@ -1,0 +1,24 @@
+$ git init: Crear un nuevo repositorio local
+
+$ git clone ssh://usuario@domain.com/repo.git: Clonar un repositorio existente
+
+git add "": Lleva el control de los archivos que se agregan luego de escribir ese comando.
+git add .: Agraga todos los cambios
+
+$ git remote add origin [URL DEL REPOSITORIO EN GITHUB]
+
+$ git status: Muestra el estado de los ficheros en el directorio de trabajo
+
+$ git commit "": hace commit de los cambios previamente realizados
+
+$ git log: muestra el historial de commits
+
+$ git push: publicar lo que se encuentra en nuestro servidor local y llevarlo al servidor remoto de Github.
+
+$git pull: trae los cambios de nuestro repositorio remoto y los actualiza al repositorio local.
+
+$ git branch "" Crea una nueva rama basada en tu HEAD actual
+
+$ git checkout "": cambiar a la rama ""
+
+$ git merge <rama> integrar <rama> en el HEAD actual
