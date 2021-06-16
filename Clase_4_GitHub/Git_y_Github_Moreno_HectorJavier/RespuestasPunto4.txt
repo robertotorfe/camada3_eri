@@ -1,0 +1,5 @@
+El sistema de control de versiones fue inventado por Linus Torvalds para ser utilizado en el desarrollo del kernel de Linux.
+
+Github pertenece actualmente a Microsoft
+
+Si hay otra forma que es mas orientada a objetos llamada GitHub Desktop
